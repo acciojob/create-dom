@@ -1,1 +1,5 @@
-//your JS code here. If required.
+function createDom(root) {
+
+}
+
+module.exports=createDom
